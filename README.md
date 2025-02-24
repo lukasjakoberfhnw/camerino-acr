@@ -1,5 +1,7 @@
 # Autonomous and Collaborative Robotics 2025: Warehouse Simulation
 
+![Simulation Sneak Peek](./ACR_GIF_README.gif)
+
 # Introduction
 
 This repository is created as a project developed for a module at the University of Camerino. It contains the custom made Unity Project including 3D Models, Code, and ROS2 Integration. Furthermore, the project extends on the already existing ROS TCP Endpoint developed by the Unity Robotics Hub (https://github.com/Unity-Technologies/Unity-Robotics-Hub). 
