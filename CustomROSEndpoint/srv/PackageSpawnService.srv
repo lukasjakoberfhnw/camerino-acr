@@ -1,0 +1,4 @@
+PackageSpawn input
+---
+string status
+bool success

@@ -1,0 +1,4 @@
+int32 package_id
+int32 spawn_location
+int32 target_location
+bool to_storage

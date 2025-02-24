@@ -1,0 +1,5 @@
+int32 robot_id
+bool free
+---
+string status
+bool success
