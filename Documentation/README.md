@@ -2,6 +2,7 @@
 
 This directory holds overview files in form of BPMN, and UML diagrams. The following diagrams are present:
 
+- Presentation Slideset of the Project
 - ROS Architecture
 - Sequence Diagram
 - UML Class Diagram
