@@ -134,6 +134,6 @@ At the moment, there are three different MoverBots that can run independently. H
 
 If questions arise or you need help with the installation, please do not hesitate to reach out to us.
 
-samuel.hilty@students.fhnw.ch
-arbnor.bekiri@students.fhnw.ch
+samuel.hilty@students.fhnw.ch \
+arbnor.bekiri@students.fhnw.ch \
 lukas.jakober@students.fhnw.ch
