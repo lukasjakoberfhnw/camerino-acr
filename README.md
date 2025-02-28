@@ -112,3 +112,28 @@ This spawns a new package in the simulation and the counter bot automatically ha
 The inputs can be manipulated. The to_storage variable indicates which process shall be used. If it is set to true, the counter will spawn a package at the given spawn_location and request the moverbot to store it at the target_location. The target location is mapped on the shelfs, where each shelf has 10 slots 0-9, 10-19, etc. If the to_storage variable is set to false, the counter sends a request to collect the package at the shelfs given the input location. 
 
 At the moment, there are three different MoverBots that can run independently. However, the counter does not yet handle tasks when no moverbot is available. There could be the improvement to add a queue of open tasks and allocate this to the next robot that becomes available, but that exeeded the time and scope of this project.
+
+# Project Architecture
+
+## ROS 2 Architecture
+![ROS 2 Node Architecture](./Documentation/ROS-ArchitecutreDiagramACR.svg)
+
+## Sequence Diagram
+![Sequence Diagram](./Documentation/SequenceDiagramACR_V1-0.svg)
+
+## Class Diagram (abstracted)
+![Abstracted class diagram](./Documentation/ClassDiagramACR_V1-0.png)
+
+## BPMN: Drop-Off
+![BPMN Drop-Off](./Documentation/BPMN_Drop-Off.png)
+
+## BPMN: Pick-Up
+![BPMN Pick-Up](./Documentation/BPMN_Pick-Up.png)
+
+# Support
+
+If questions arise or you need help with the installation, please do not hesitate to reach out to us.
+
+samuel.hilty@students.fhnw.ch
+arbnor.bekiri@students.fhnw.ch
+lukas.jakober@students.fhnw.ch
